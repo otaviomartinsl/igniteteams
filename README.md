@@ -17,7 +17,7 @@ Esse é o segundo projeto da trilha de react native do ignite de 2022 da Rockets
 
 * React Native Safe Area Context
 
- *Native Stack Navigator
+* Native Stack Navigator
 
 * Async Storage
 
